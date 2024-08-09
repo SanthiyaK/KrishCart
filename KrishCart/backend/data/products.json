@@ -1,0 +1,120 @@
+[
+    {
+        "name": " Women Knitted Cotten T-Shirt & Joggers Set",
+        "price": 399,
+        "description": "Pant with pocket, comes with both elastic and Rope and pouch Packing.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/1.1.jpg"
+            },
+            {
+                "image": "/images/products/1.2.jpg"
+            }
+        ],
+        "category": "NightSuits",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Reyon Palazzo",
+        "price": 200,
+        "description": "Its comes with floral design along with rope.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Palazzo",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Maternity kurti",
+        "price": 450,
+        "description": "Its comes with the Umbrella type",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Maternity",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Chettiand cotton",
+        "price": 250.45,
+        "description": "Kurti with pocket, plain with border",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/4.jpg"
+          }
+        ],
+        "category": "Kurtis",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Wrinkle dress",
+        "price": 767.32,
+        "description": "Hight quality georgette with lining, 1/2 sleeve length",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/5.jpg"
+          }
+        ],
+        "category": "Kurtis",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Cigar Pants",
+        "price": 290,
+        "description": "Pants with both side pockets",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Pants",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Shawl for Women",
+        "price": 10.12,
+        "description": "Long length shawl.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Duppatta/Shawl",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
